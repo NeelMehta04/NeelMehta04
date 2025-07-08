@@ -8,7 +8,7 @@
 
 I am currently pursuing an Integrated B.Tech in Information Technology at Mukesh Patel School of Technology Management & Engineering, NMIMS Mumbai. My academic background is complemented by a strong interest in robotics, artificial intelligence, and embedded systems. I actively combine my technical skills with education, mentoring, and research-driven projects.
 
-Alongside my coursework, I work as a Technical Associate at Clusterize Learning LLP, where I teach Python and robotics, and mentor student teams for national-level robotics competitions including WSRO and VEX Robotics.
+Alongside my coursework, I work as a Technical Associate at Clusterize Learning LLP, where I teach Python and robotics, and mentor student teams for national-level robotics competitions including WSRO and VEX Robotics. Additionally, I am a Python Development Intern at Codveda Technologies, where I contribute to backend systems and application logic for software solutions.
 
 ---
 
@@ -18,6 +18,7 @@ Alongside my coursework, I work as a Technical Associate at Clusterize Learning 
 - Mentoring robotics teams for WSRO Mumbai Regionals 2025 and upcoming VEX Robotics competitions.
 - Conducting hands-on sessions on Arduino, Raspberry Pi, and IoT-based systems.
 - Developing technical training material for classroom and competition use.
+- Working as a Python Development Intern at Codveda Technologies, contributing to backend logic, debugging, and API development.
 
 ---
 
@@ -30,7 +31,7 @@ Python, C/C++, JavaScript, PHP, SQL, HTML
 Arduino, Raspberry Pi, IoT devices, sensor integration, automation systems
 
 **Tools & Libraries**  
-OpenCV, Git, Oracle, Fritzing, Visual Studio Code
+OpenCV, Git, Oracle, Visual Studio Code
 
 ---
 
