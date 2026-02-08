@@ -71,5 +71,5 @@ Mentored student teams in competitive robotics, focusing on line-following bots,
 ## Contact
 
 **LinkedIn**: (https://www.linkedin.com/in/neel-mehta-77345726a/)  
-**Email**: neelmehta041105@gmail.com  
+**Email**: neelymehta04@gmail.com  
 **Location**: Mumbai, India  
